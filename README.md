@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adamcherkaoui99@gmail.com"><img src="https://img.shields.io/badge/Email-adamcherkaoui99%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:0dh4mm@gmail.com"><img src="https://img.shields.io/badge/Email-adamcherkaoui99%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/0dh4m"><img src="https://img.shields.io/badge/Location-Rabat%20%2F%20Sal%C3%A9%2C%20Morocco-10b981?style=flat-square&logo=google-maps&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Desktop-8b5cf6?style=flat-square"/>
 </p>
